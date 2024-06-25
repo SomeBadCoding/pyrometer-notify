@@ -4,6 +4,6 @@ main = "src/index.js"
 compatibility_date = "2024-06-20"
 compatibility_flags = ["nodejs_compat"]
 
-[[routes]]
-pattern = "example.com/pyrometer-notify-webhook"
-zone_name = "example.com"
+#[[routes]]
+#pattern = "example.com/pyrometer-notify-webhook"
+#zone_name = "example.com"
