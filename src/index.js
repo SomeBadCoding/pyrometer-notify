@@ -12,6 +12,7 @@ addEventListener('fetch', event => {
 			
 
 			// Events Types - https://gitlab.com/tezos-kiln/pyrometer#event-types
+			
 
 			const webhooks = {
 				endorsed: 'https://discord.com/api/webhooks/<ids>',
